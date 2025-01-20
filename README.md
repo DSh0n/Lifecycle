@@ -6,7 +6,7 @@
 In this tutorial, I’m going to demonstrate how a ticket is created and how it moves through its lifecycle in osTicket, from creation to resolution. Let’s follow the journey of a ticket created by Karen for an HR employee who is having issues powering on their laptop.
 <br />
 
-<h2>Environments Used </h2>
+<h2>Operating Systems Used</h2>
 
 - <b>Windows 10</b>
 
